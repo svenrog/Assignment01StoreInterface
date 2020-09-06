@@ -2,6 +2,12 @@
 
 Första inlämningsuppgiften för kursen Programmeringsteknik C#
 
+## Inlämning
+
+Inlämning av denna uppgift får ej ske via pull request. Lösningens innehåll skall packas i en .zip-fil och skickas in via PingPong.
+
+## Bakgrund
+
 Hans-Johnny har precis startat en butik på nätet där han säljer film och musik till en smalare publik.
 
 - Butiken har två adresser, en för fakturering och en besöksadress.
