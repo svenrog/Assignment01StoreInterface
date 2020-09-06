@@ -4,7 +4,7 @@ Första inlämningsuppgiften för kursen Programmeringsteknik C#
 
 ## Inlämning
 
-Inlämning av denna uppgift får ej ske via pull request. Lösningens innehåll skall packas i en .zip-fil och skickas in via PingPong.
+Inlämning av denna uppgift får ej ske via pull request. Lösningens innehåll skall packas i en .zip-fil och skickas in via PingPong [här](https://yh.pingpong.se/courseId/10760/content.do?id=4783769).
 
 ## Bakgrund
 
